@@ -19,7 +19,7 @@ azure-storage-blob==1.4.0
 azure-storage-common==1.4.0
 billiard==3.3.0.23
 black==19.10b0
-bleach==3.1.0
+bleach==3.1.4
 bleach-whitelist==0.0.10
 blinker==1.4
 boto==2.48.0
