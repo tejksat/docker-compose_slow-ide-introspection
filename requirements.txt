@@ -113,7 +113,7 @@ qrcode==6.1
 ramlfications==0.1.9
 raven==6.10.0
 redis==2.10.5
-requests==2.12.4
+requests==2.20.0
 s3transfer==0.1.12
 scikit-learn==0.19.1
 scipy==0.18.1
