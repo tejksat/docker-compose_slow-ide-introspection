@@ -31,7 +31,7 @@ chardet==3.0.4
 click==6.7
 cookies==2.2.1
 coverage==4.4.1
-cryptography==3.2
+cryptography==3.3.2
 decorator==4.1.1
 diax==1.21
 docker==2.7.0
