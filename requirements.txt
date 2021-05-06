@@ -41,7 +41,7 @@ dogpile.cache==0.6.2
 fake-factory==0.5.8
 Faker==1.0.4
 Flask==1.0
-Flask-Cors==2.0.1
+Flask-Cors==3.0.9
 Flask-HTTPAuth==2.5.0
 Flask-Mail==0.9.1
 Flask-RESTful==0.3.3
