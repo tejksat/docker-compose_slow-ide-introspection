@@ -74,7 +74,7 @@ more-itertools==7.0.0
 moto==1.2.0
 multidict==4.0.0
 nine==1.0.0
-numpy==1.14.0
+numpy==1.22.0
 numpy-stl==2.10.1
 packaging==19.2
 pandas==0.25.1
